@@ -1,3 +1,5 @@
+*** PLEASE VIEW IN RAW MODE FOR EASY READING ***
+
 \\ 	This is a simple Django blog site I made from scratch, with SQLite3 as the database engine.	//
 
 //// Author: dayfray
