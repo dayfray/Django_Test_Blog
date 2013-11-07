@@ -7,36 +7,36 @@
 Here is the tree of the site's files:
 
 mysite
-├── blog
-│   ├── admin.py
-│   ├── admin.pyc
-│   ├── __init__.py
-│   ├── __init__.pyc
-│   ├── models.py
-│   ├── models.pyc
-│   ├── templates
-│   │   ├── archives.html
-│   │   ├── base.html
-│   │   ├── blog.html
-│   │   ├── post.html
-│   │   └── tagpage.html
-│   ├── tests.py
-│   ├── urls.py
-│   ├── urls.pyc
-│   ├── views.py
-│   └── views.pyc
-├── manage.py
-├── mysite
-│   ├── __init__.py
-│   ├── __init__.pyc
-│   ├── settings.py
-│   ├── settings.pyc
-│   ├── urls.py
-│   ├── urls.pyc
-│   ├── wsgi.py
-│   └── wsgi.pyc
-├── mysite.db
-└── README.md
+	blog
+		admin.py
+		admin.pyc
+		__init__.py
+		__init__.pyc
+		models.py
+		models.pyc
+		templates
+			archives.html
+			base.html
+			blog.html
+			post.html
+			tagpage.html
+		tests.py
+		urls.py
+		urls.pyc
+		views.py
+		views.pyc
+	manage.py
+	mysite
+		__init__.py
+		__init__.pyc
+		settings.py
+		settings.pyc
+		urls.py
+		urls.pyc
+		wsgi.py
+		wsgi.pyc
+	mysite.db
+	README.md
 
 
 We have the admin privileges activated with this blog, so the admin can log into the backend of the site and make add/edit posts for the blog. 
